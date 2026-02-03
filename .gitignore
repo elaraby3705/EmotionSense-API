@@ -70,3 +70,14 @@ Thumbs.db
 .mypy_cache/
 .ruff_cache/
 .pylint.d/
+
+# General
+__pycache__/
+*.pyc
+
+# Environments
+venv/
+env/
+
+# Secrets (IMPORTANT)
+.env
